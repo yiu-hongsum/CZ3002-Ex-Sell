@@ -1,0 +1,209 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Ex_Sell.Site" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+
+<!DOCTYPE html>
+<style>
+    .navbar > .container, .navbar > .container-fluid {
+        display: inline-block !important;
+    }
+
+    .navbar {
+        background-color: #333!important;
+    }
+
+    .navbar-nav {
+        flex-direction: row !important;
+    }
+
+    .nav li {
+        display: inline-block !important;
+
+    }
+    
+    .nav li a {
+        color:white!important;
+    }
+    .nav>li>a:hover {
+        text-decoration: none!important;
+        background-color: #474747 !important;
+    }
+    .logo {
+        width: 70px!important;
+        max-height: 55px!important;
+        margin-top: -17px!important;
+        padding-left: 2px!important;
+    }
+
+    .search-box {
+        border-radius: 15px!important;
+        border-width: 0px!important;
+        padding-left: 14px!important;
+    }
+
+        .search-box:focus {
+            outline-style: none!important;
+        }
+    
+    /*.login-header {
+        background-color: red;
+        color: white;
+    }*/
+
+    input[type=text] {
+        color: #757575!important;
+    }
+    .search-button{
+        height:15px!important;
+        width:15px!important;
+        position:relative!important;
+        top: 3px!important;
+    }
+
+    button {
+        background-color: antiquewhite;
+        background-repeat: no-repeat;
+        font-size: 20px;
+        border: thin;
+        cursor: pointer;
+        overflow: hidden;
+        border: 1px solid white;
+        margin-top: 12px;
+    }
+    .modal-content{
+        box-shadow: none!important;
+        -webkit-box-shadow: none!important;
+        border:none!important;
+        background-color: rgba(0,0,0,0)!important;
+    }
+    .panel-heading1{
+            background-color:white!important;
+            padding: 10px 15px;
+            border-bottom: 1px solid transparent;
+            border-top-left-radius: 3px;
+            border-top-right-radius: 3px;
+        }
+        .panel-title1{
+            color:black!important;
+            margin-top: 0;
+            margin-bottom: 0;
+            font-size: 16px;
+        }
+        .panel-default>.panel-heading1 {
+            color: #333;
+            background-color: #f5f5f5;
+            border-color: #ddd;
+        }
+       /*p{
+            white-space: nowrap;
+            text-overflow: hidden;
+            overflow:hidden;
+        } */ 
+
+</style>
+<html>
+<head runat="server">
+    <!--BootStrap-->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <title>Welcome to Ex-Sell</title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-color:#eee!important;">
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand pull-left" href="Home.aspx" style="padding:0px 15px;">
+                        <asp:Image ID="exsell_logo1" runat="server" ImageUrl="~/Images/exsell-logo-fin.png" style="height:85%;position:relative;margin:5px 0px;"/></a>
+                    <div id="search" style="margin-top:10px;float:left;">         
+                    <asp:TextBox ID="txtSearchMaster" runat="server" CssClass="search-box" Placeholder="Search for item here..."></asp:TextBox>
+                    <asp:ImageButton ID="ImageButton1" runat="server" cssClass="search-button" ImageUrl="Images/searchicon.png" OnClick="btnSearch_Click" /> </br>  
+                    <span><i><font color ="white"size ="1"> Buy, Sell and Trade products in NTU</font></i></span>
+                </div>
+                    </div>
+                <div class="collapse navbar-collapse" id="nav_bar" runat="server">
+                    <ul class="nav navbar-nav navbar-right" id="navigationBar" runat="server">
+                        <li class='pull-left'><a href='Operator.aspx'> Live Support </a></li>
+                        <li class='pull-left'><a href='Interest.aspx'>My Interests</a></li>
+                        <li class='pull-left'><a href='Home.aspx'>Home</a></li>
+                        <li class='pull-left'><a href='EditAccount.aspx'> Profile </a></li>
+                        <li class='pull-left'><a href='OwnListing.aspx'>My Listings </a></li>
+                        <li class='pull-left'><a href='#'> Conversations </a></li>
+                        <li class='pull-left'><a href='Login.aspx'> My Listings </a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="container body-content">
+            <br />
+            <br />
+            <br />
+            <br />
+            <asp:ContentPlaceHolder ID="BodyContent" runat="server">
+            </asp:ContentPlaceHolder>
+             
+            
+                <div id="myModal" class="modal fade" role="dialog">
+                    <div class="modal-dialog">
+                        <asp:UpdatePanel ID="UpdatePanel" runat="server">
+                        <ContentTemplate>
+                        <!-- Modal content-->
+                                <div class="modal-content" style="opacity:1.0">
+                   
+                                    <div class="modal-body" style="opacity:1.0">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="margin: 2px 5px;"><span aria-hidden="true">&times;</span></button>
+                                         <div id="login" class="panel panel-info">
+                                <div class="panel-heading ">Login</div>
+                                <div class="panel-body">
+                                    <div class="form-group">
+                                        <label for="loginUser">NTU Email</label>
+                                        <asp:TextBox ID="tb_email" class="form-control" runat="server"></asp:TextBox>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="password">Password</label>
+                                        <asp:TextBox ID="tb_password" class="form-control" runat="server" TextMode="Password"></asp:TextBox>
+                                    </div>
+                                    <br />
+                                    <asp:LinkButton ID="lb_reset" runat="server" OnClick="lb_reset_Click">Forget Password?</asp:LinkButton>
+                                    <br />
+                                    <br />
+                                    <asp:Button ID="bn_login" runat="server" Text="Login" style="color: #31708f;background-color: #d9edf7;" class="btn btn-outline-secondary" OnClick="bn_login_Click" />
+                                    <br />
+                                    <br />
+                                    <asp:Label ID="lb_msg" runat="server" Text="" ForeColor="Red" Font-Bold="True" Font-Size="Larger"></asp:Label>
+                                </div>
+                            </div>
+                                    </div>
+                                </div>
+                            </ContentTemplate>
+           </asp:UpdatePanel>
+                    </div>
+               </div>
+
+            <hr />
+            <footer>
+                <p><i> <%: DateTime.Now.Year %> Ex-Sell&copy; : An NTU Initiative</i></p>
+            </footer>
+        </div>
+    </form>
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <%-- %><script type="text/javascript" src="<%= ResolveUrl("~/js/jquery-3.0.0.min.js") %>"></script>
+    <script type="text/javascript" src="<%= ResolveUrl("~/js/bootstrap.min.js")%>"></script>--%>
+</body>
+</html>

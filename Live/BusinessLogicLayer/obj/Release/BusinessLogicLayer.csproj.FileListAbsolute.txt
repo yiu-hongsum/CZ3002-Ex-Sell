@@ -1,0 +1,12 @@
+D:\Ex-Sell v32\BusinessLogicLayer\bin\Release\BusinessLogicLayer.dll
+D:\Ex-Sell v32\BusinessLogicLayer\bin\Release\BusinessLogicLayer.pdb
+D:\Ex-Sell v32\BusinessLogicLayer\bin\Release\DataAccessLayer.dll
+D:\Ex-Sell v32\BusinessLogicLayer\bin\Release\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ex-Sell v32\BusinessLogicLayer\bin\Release\MySql.Data.dll
+D:\Ex-Sell v32\BusinessLogicLayer\bin\Release\DataAccessLayer.pdb
+D:\Ex-Sell v32\BusinessLogicLayer\bin\Release\DataAccessLayer.dll.config
+D:\Ex-Sell v32\BusinessLogicLayer\bin\Release\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ex-Sell v32\BusinessLogicLayer\bin\Release\MySql.Data.xml
+D:\Ex-Sell v32\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Ex-Sell v32\BusinessLogicLayer\obj\Release\BusinessLogicLayer.dll
+D:\Ex-Sell v32\BusinessLogicLayer\obj\Release\BusinessLogicLayer.pdb

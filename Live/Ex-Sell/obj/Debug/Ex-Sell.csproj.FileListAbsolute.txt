@@ -1,0 +1,1758 @@
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\MySql.Data.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\bin\MySql.Data.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\MySql.Data.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\MySql.Data.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\MySql.Data.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\soong\Desktop\ASE\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\MySql.Data.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\MySql.Data.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\MySql.Data.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\MySql.Data.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\MySql.Data.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\AjaxControlToolkit.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\MySql.Data.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\bin\MySql.Data.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\MySql.Data.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\bin\MySql.Data.xml
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v10\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Owin.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\MySql.Data.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Desktop\Ex-Sell v13\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\AjaxControlToolkit.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Owin.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\MySql.Data.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\MySql.Data.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Owin.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\MySql.Data.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\MySql.Data.xml
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v17\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\AjaxControlToolkit.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Owin.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\MySql.Data.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\MySql.Data.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Owin.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\MySql.Data.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\MySql.Data.xml
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v19\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Owin.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\MySql.Data.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\MySql.Data.xml
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Owin.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\MySql.Data.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\MySql.Data.xml
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\User\Desktop\Ex-Sell v22\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\AjaxControlToolkit.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Owin.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\MySql.Data.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\MySql.Data.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Owin.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\MySql.Data.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\MySql.Data.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\obj\Debug\Ex-Sell.csproj.CopyComplete
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Owin.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\MySql.Data.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\Ex-Sell\obj\Debug\Ex-Sell.pdb
+D:\local\Ex-Sell v26\Ex-Sell\bin\Ex-Sell.dll.config
+D:\local\Ex-Sell v26\Ex-Sell\bin\Ex-Sell.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\Ex-Sell.pdb
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\csc.exe
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\csc.exe.config
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\csc.rsp
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\csi.exe
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\csi.exe.config
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\csi.rsp
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.AppContext.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Console.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\vbc.exe
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\vbc.exe.config
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\vbc.rsp
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+D:\local\Ex-Sell v26\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+D:\local\Ex-Sell v26\Ex-Sell\bin\BusinessLogicLayer.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\DataAccessLayer.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\Newtonsoft.Json.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\OnlineSupport.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\Owin.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\MySql.Data.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\local\Ex-Sell v26\Ex-Sell\bin\BusinessLogicLayer.pdb
+D:\local\Ex-Sell v26\Ex-Sell\bin\DataAccessLayer.pdb
+D:\local\Ex-Sell v26\Ex-Sell\bin\DataAccessLayer.dll.config
+D:\local\Ex-Sell v26\Ex-Sell\bin\OnlineSupport.pdb
+D:\local\Ex-Sell v26\Ex-Sell\bin\OnlineSupport.dll.config
+D:\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\local\Ex-Sell v26\Ex-Sell\bin\Newtonsoft.Json.xml
+D:\local\Ex-Sell v26\Ex-Sell\bin\MySql.Data.xml
+D:\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\local\Ex-Sell v26\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+D:\local\Ex-Sell v26\Ex-Sell\obj\Debug\Ex-Sell.dll
+D:\local\Ex-Sell v26\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Owin.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\MySql.Data.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\MySql.Data.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Owin.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\MySql.Data.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\MySql.Data.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Owin.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\MySql.Data.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\obj\Debug\Ex-Sell.csproj.CopyComplete
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\obj\Debug\Ex-Sell.csprojResolveAssemblyReference.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\obj\Debug\Ex-Sell.csproj.CoreCompileInputs.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\obj\Debug\Ex-Sell.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\obj\Debug\Ex-Sell.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Ex-Sell.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Ex-Sell.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Ex-Sell.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\csc.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\csc.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\csc.rsp
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\csi.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\csi.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\csi.rsp
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.AppContext.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Console.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\vbc.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\vbc.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\vbc.rsp
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\BusinessLogicLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\DataAccessLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Newtonsoft.Json.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\OnlineSupport.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Owin.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\MySql.Data.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\BusinessLogicLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\DataAccessLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\DataAccessLayer.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\OnlineSupport.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\OnlineSupport.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Newtonsoft.Json.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\Ex-Sell\bin\Microsoft.Owin.Host.SystemWeb.xml

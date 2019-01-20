@@ -1,0 +1,284 @@
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\MySql.Data.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\MySql.Web.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\MySql.Data.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\MySql.Web.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\soong\Desktop\Ex-Sell v4\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\MySql.Web.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\MySql.Web.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v4\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v7\Ex-Sell v4\Ex-Sell\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\MySql.Web.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\bin\Debug\MySql.Web.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v8\Ex-Sell v8\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\bin\Debug\MySql.Data.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\bin\Debug\MySql.Web.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v9\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\bin\Debug\MySql.Web.xml
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v10\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v13\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell v13\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v13\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v13\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell v13\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell v13\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v13\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v13\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v13\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\MySql.Web.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\bin\Debug\MySql.Web.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\bin\Debug\MySql.Web.xml
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v17\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\MySql.Web.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\bin\Debug\MySql.Web.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\bin\Debug\MySql.Web.xml
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\User\Desktop\Ex-Sell v19\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\MySql.Web.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\bin\Debug\MySql.Web.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\bin\Debug\MySql.Data.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\bin\Debug\MySql.Web.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\MySql.Data.dll
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\MySql.Web.dll
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\MySql.Data.xml
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\local\Ex-Sell v26\DataAccessLayer\bin\Debug\MySql.Web.xml
+D:\local\Ex-Sell v26\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\local\Ex-Sell v26\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\local\Ex-Sell v26\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\MySql.Data.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\MySql.Web.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\MySql.Data.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\bin\Debug\MySql.Web.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\DataAccessLayer\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

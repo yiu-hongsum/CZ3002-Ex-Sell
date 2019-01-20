@@ -1,0 +1,322 @@
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\OnlineSupport.dll
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\OnlineSupport.pdb
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\Newtonsoft.Json.dll
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\Owin.dll
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\bin\Newtonsoft.Json.xml
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\obj\Debug\OnlineSupport.dll
+E:\VS2012 express projects\OnlineSupport\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\Owin.dll
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\Bryan\Downloads\OnlineSupport\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\Owin.dll
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\User\Desktop\OnlineSupportv2\OnlineSupport\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\Owin.dll
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\Ex-Sell v13\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\Owin.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v15\Ex-Sell v13\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\Owin.dll
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\User\Desktop\Ex-Sell v17\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\Owin.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v18\Ex-Sell v17\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\Owin.dll
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\User\Desktop\Ex-Sell v19\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\Owin.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\User\Desktop\Ex-Sell v21\Ex-Sell v19\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\Owin.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\User\Documents\ex-sell\UI\Ex-Sell v23\Ex-Sell v22\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\Owin.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\obj\Debug\OnlineSupport.csproj.CopyComplete
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v22\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\Owin.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v26\OnlineSupport\obj\Debug\OnlineSupport.pdb
+D:\local\Ex-Sell v26\OnlineSupport\bin\OnlineSupport.dll.config
+D:\local\Ex-Sell v26\OnlineSupport\bin\OnlineSupport.dll
+D:\local\Ex-Sell v26\OnlineSupport\bin\OnlineSupport.pdb
+D:\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+D:\local\Ex-Sell v26\OnlineSupport\bin\Newtonsoft.Json.dll
+D:\local\Ex-Sell v26\OnlineSupport\bin\Owin.dll
+D:\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\local\Ex-Sell v26\OnlineSupport\bin\Newtonsoft.Json.xml
+D:\local\Ex-Sell v26\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+D:\local\Ex-Sell v26\OnlineSupport\obj\Debug\OnlineSupport.dll
+D:\local\Ex-Sell v26\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\Owin.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v26\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\Owin.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\Bryan\Downloads\local\Ex-Sell v27\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\Owin.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\obj\Debug\OnlineSupport.csproj.CopyComplete
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\cyzse\OneDrive\Desktop\Ex-Sell v30\OnlineSupport\obj\Debug\OnlineSupport.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\OnlineSupport.dll.config
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\OnlineSupport.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\OnlineSupport.pdb
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\Newtonsoft.Json.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\Owin.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\bin\Newtonsoft.Json.xml
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\obj\Debug\OnlineSupport.csprojResolveAssemblyReference.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\obj\Debug\OnlineSupport.csproj.CoreCompileInputs.cache
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\obj\Debug\OnlineSupport.dll
+C:\Users\Sacrifar\Desktop\Ex-Sell v32\OnlineSupport\obj\Debug\OnlineSupport.pdb
